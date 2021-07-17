@@ -1,2 +1,2 @@
-# htmlstar2.github.io
+# https://suslitsa.github.io/landing2/
 одностраничник.сайт-визитка.лендинг/Landing
